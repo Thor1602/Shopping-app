@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShoppingApp2</string>
+    <string name="korean">한국어</string>
+    <string name="english">English</string>
+    <string name="addItem">ADD</string>
+    <string name="add">ADD</string>
+    <string name="add_to_shoppinglist">ADD TO SHOPPINGLIST</string>
+    <string name="delete">DELETE</string>
+</resources>
